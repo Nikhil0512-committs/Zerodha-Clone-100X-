@@ -1,0 +1,8 @@
+#Parent{
+    display: flex;
+    justify-content:space-between;
+}
+#child{
+    display:flex;
+    justify-content:space-evenly;
+}
